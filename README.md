@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku solver build in python and visualised ith pygame
+Sudoku solver build in python and visualised with pygame
